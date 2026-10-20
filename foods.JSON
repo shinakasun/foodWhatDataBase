@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "日式豚骨拉麵",
+    "tags": ["pork", "hot", "heavy"],
+    "element": "elementMetal"
+  },
+  {
+    "id": 2,
+    "name": "蔥爆牛肉",
+    "tags": ["beef", "hot", "heavy", "takeout"],
+    "element": "elementFire"
+  },
+  {
+    "id": 3,
+    "name": "鮮蝦水果沙拉",
+    "tags": ["seafood", "refreshing", "highProtein"],
+    "element": "elementWood"
+  },
+  {
+    "id": 4,
+    "name": "鹽酥雞",
+    "tags": ["pork", "chicken", "snack", "heavy", "takeout"],
+    "element": "elementEarth"
+  },
+  {
+    "id": 5,
+    "name": "清蒸海瓜子",
+    "tags": ["seafood", "hot", "refreshing"],
+    "element": "elementWater"
+  }
+]
