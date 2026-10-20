@@ -7,7 +7,7 @@
   },
   {
     "id": 2,
-    "name": "蔥爆牛肉",
+    "name": "蔥爆牛肉飯",
     "tags": ["beef", "hot", "heavy", "takeout"],
     "element": "elementFire"
   },
@@ -19,7 +19,7 @@
   },
   {
     "id": 4,
-    "name": "鹽酥雞",
+    "name": "台式鹹酥雞",
     "tags": ["pork", "chicken", "snack", "heavy", "takeout"],
     "element": "elementEarth"
   },
@@ -28,5 +28,155 @@
     "name": "清蒸海瓜子",
     "tags": ["seafood", "hot", "refreshing"],
     "element": "elementWater"
+  },
+  {
+    "id": 6,
+    "name": "紅燒牛肉麵",
+    "tags": ["beef", "hot", "heavy"],
+    "element": "elementFire"
+  },
+  {
+    "id": 7,
+    "name": "海南雞飯",
+    "tags": ["highProtein", "takeout"],
+    "element": "elementMetal"
+  },
+  {
+    "id": 8,
+    "name": "客家小炒便當",
+    "tags": ["pork", "hot", "heavy", "takeout"],
+    "element": "elementEarth"
+  },
+  {
+    "id": 9,
+    "name": "日式鮭魚定食",
+    "tags": ["seafood", "highProtein", "hot"],
+    "element": "elementWater"
+  },
+  {
+    "id": 10,
+    "name": "清炒水蓮菜",
+    "tags": ["vegan", "refreshing", "hot"],
+    "element": "elementWood"
+  },
+  {
+    "id": 11,
+    "name": "宮保雞丁",
+    "tags": ["hot", "heavy", "snack"],
+    "element": "elementFire"
+  },
+  {
+    "id": 12,
+    "name": "蒜泥白肉",
+    "tags": ["pork", "heavy", "hot"],
+    "element": "elementMetal"
+  },
+  {
+    "id": 13,
+    "name": "鳳梨蝦球",
+    "tags": ["seafood", "heavy", "snack"],
+    "element": "elementEarth"
+  },
+  {
+    "id": 14,
+    "name": "皮蛋瘦肉粥",
+    "tags": ["pork", "hot", "refreshing"],
+    "element": "elementWater"
+  },
+  {
+    "id": 15,
+    "name": "韓式泡菜豆腐鍋",
+    "tags": ["hot", "heavy", "vegan"],
+    "element": "elementFire"
+  },
+  {
+    "id": 16,
+    "name": "炙燒鮭魚酪梨壽司",
+    "tags": ["seafood", "refreshing", "highProtein"],
+    "element": "elementWood"
+  },
+  {
+    "id": 17,
+    "name": "招牌滷肉飯",
+    "tags": ["pork", "heavy", "snack", "takeout"],
+    "element": "elementEarth"
+  },
+  {
+    "id": 18,
+    "name": "日式唐揚雞咖哩",
+    "tags": ["heavy", "hot", "takeout"],
+    "element": "elementEarth"
+  },
+  {
+    "id": 19,
+    "name": "清湯陽春麵",
+    "tags": ["refreshing", "hot", "snack"],
+    "element": "elementMetal"
+  },
+  {
+    "id": 20,
+    "name": "紅油抄手",
+    "tags": ["pork", "hot", "heavy", "snack"],
+    "element": "elementFire"
+  },
+  {
+    "id": 21,
+    "name": "燻鮭魚貝果三明治",
+    "tags": ["seafood", "refreshing", "highProtein", "takeout"],
+    "element": "elementWood"
+  },
+  {
+    "id": 22,
+    "name": "黑胡椒鐵板牛排",
+    "tags": ["beef", "hot", "heavy", "highProtein"],
+    "element": "elementFire"
+  },
+  {
+    "id": 23,
+    "name": "藥膳羊肉爐",
+    "tags": ["mutton", "hot", "heavy"],
+    "element": "elementFire"
+  },
+  {
+    "id": 24,
+    "name": "鮮蝦雲吞湯",
+    "tags": ["seafood", "hot", "refreshing", "snack"],
+    "element": "elementWater"
+  },
+  {
+    "id": 25,
+    "name": "越式生春捲",
+    "tags": ["refreshing", "vegan"],
+    "element": "elementWood"
+  },
+  {
+    "id": 26,
+    "name": "美式起司牛肉漢堡",
+    "tags": ["beef", "heavy", "highProtein", "takeout"],
+    "element": "elementEarth"
+  },
+  {
+    "id": 27,
+    "name": "白灼鮮蝦",
+    "tags": ["seafood", "highProtein", "refreshing"],
+    "element": "elementWater"
+  },
+  {
+    "id": 28,
+    "name": "蒜香炒高麗菜",
+    "tags": ["vegan", "refreshing", "hot"],
+    "element": "elementWood"
+  },
+  {
+    "id": 29,
+    "name": "味噌鮮魚湯",
+    "tags": ["seafood", "hot", "refreshing"],
+    "element": "elementWater"
+  },
+  {
+    "id": 30,
+    "name": "舒肥雞胸肉沙拉",
+    "tags": ["refreshing", "highProtein", "vegan"],
+    "element": "elementWood"
   }
 ]
