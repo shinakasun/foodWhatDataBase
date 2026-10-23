@@ -1,182 +1,102 @@
 [
-  {
-    "id": 1,
-    "name": "日式豚骨拉麵",
-    "tags": ["pork", "hot", "heavy"],
-    "element": "elementMetal"
-  },
-  {
-    "id": 2,
-    "name": "蔥爆牛肉飯",
-    "tags": ["beef", "hot", "heavy", "takeout"],
-    "element": "elementFire"
-  },
-  {
-    "id": 3,
-    "name": "鮮蝦水果沙拉",
-    "tags": ["seafood", "refreshing", "highProtein"],
-    "element": "elementWood"
-  },
-  {
-    "id": 4,
-    "name": "台式鹹酥雞",
-    "tags": ["pork", "chicken", "snack", "heavy", "takeout"],
-    "element": "elementEarth"
-  },
-  {
-    "id": 5,
-    "name": "清蒸海瓜子",
-    "tags": ["seafood", "hot", "refreshing"],
-    "element": "elementWater"
-  },
-  {
-    "id": 6,
-    "name": "紅燒牛肉麵",
-    "tags": ["beef", "hot", "heavy"],
-    "element": "elementFire"
-  },
-  {
-    "id": 7,
-    "name": "海南雞飯",
-    "tags": ["highProtein", "takeout"],
-    "element": "elementMetal"
-  },
-  {
-    "id": 8,
-    "name": "客家小炒便當",
-    "tags": ["pork", "hot", "heavy", "takeout"],
-    "element": "elementEarth"
-  },
-  {
-    "id": 9,
-    "name": "日式鮭魚定食",
-    "tags": ["seafood", "highProtein", "hot"],
-    "element": "elementWater"
-  },
-  {
-    "id": 10,
-    "name": "清炒水蓮菜",
-    "tags": ["vegan", "refreshing", "hot"],
-    "element": "elementWood"
-  },
-  {
-    "id": 11,
-    "name": "宮保雞丁",
-    "tags": ["hot", "heavy", "snack"],
-    "element": "elementFire"
-  },
-  {
-    "id": 12,
-    "name": "蒜泥白肉",
-    "tags": ["pork", "heavy", "hot"],
-    "element": "elementMetal"
-  },
-  {
-    "id": 13,
-    "name": "鳳梨蝦球",
-    "tags": ["seafood", "heavy", "snack"],
-    "element": "elementEarth"
-  },
-  {
-    "id": 14,
-    "name": "皮蛋瘦肉粥",
-    "tags": ["pork", "hot", "refreshing"],
-    "element": "elementWater"
-  },
-  {
-    "id": 15,
-    "name": "韓式泡菜豆腐鍋",
-    "tags": ["hot", "heavy", "vegan"],
-    "element": "elementFire"
-  },
-  {
-    "id": 16,
-    "name": "炙燒鮭魚酪梨壽司",
-    "tags": ["seafood", "refreshing", "highProtein"],
-    "element": "elementWood"
-  },
-  {
-    "id": 17,
-    "name": "招牌滷肉飯",
-    "tags": ["pork", "heavy", "snack", "takeout"],
-    "element": "elementEarth"
-  },
-  {
-    "id": 18,
-    "name": "日式唐揚雞咖哩",
-    "tags": ["heavy", "hot", "takeout"],
-    "element": "elementEarth"
-  },
-  {
-    "id": 19,
-    "name": "清湯陽春麵",
-    "tags": ["refreshing", "hot", "snack"],
-    "element": "elementMetal"
-  },
-  {
-    "id": 20,
-    "name": "紅油抄手",
-    "tags": ["pork", "hot", "heavy", "snack"],
-    "element": "elementFire"
-  },
-  {
-    "id": 21,
-    "name": "燻鮭魚貝果三明治",
-    "tags": ["seafood", "refreshing", "highProtein", "takeout"],
-    "element": "elementWood"
-  },
-  {
-    "id": 22,
-    "name": "黑胡椒鐵板牛排",
-    "tags": ["beef", "hot", "heavy", "highProtein"],
-    "element": "elementFire"
-  },
-  {
-    "id": 23,
-    "name": "藥膳羊肉爐",
-    "tags": ["mutton", "hot", "heavy"],
-    "element": "elementFire"
-  },
-  {
-    "id": 24,
-    "name": "鮮蝦雲吞湯",
-    "tags": ["seafood", "hot", "refreshing", "snack"],
-    "element": "elementWater"
-  },
-  {
-    "id": 25,
-    "name": "越式生春捲",
-    "tags": ["refreshing", "vegan"],
-    "element": "elementWood"
-  },
-  {
-    "id": 26,
-    "name": "美式起司牛肉漢堡",
-    "tags": ["beef", "heavy", "highProtein", "takeout"],
-    "element": "elementEarth"
-  },
-  {
-    "id": 27,
-    "name": "白灼鮮蝦",
-    "tags": ["seafood", "highProtein", "refreshing"],
-    "element": "elementWater"
-  },
-  {
-    "id": 28,
-    "name": "蒜香炒高麗菜",
-    "tags": ["vegan", "refreshing", "hot"],
-    "element": "elementWood"
-  },
-  {
-    "id": 29,
-    "name": "味噌鮮魚湯",
-    "tags": ["seafood", "hot", "refreshing"],
-    "element": "elementWater"
-  },
-  {
-    "id": 30,
-    "name": "舒肥雞胸肉沙拉",
-    "tags": ["refreshing", "highProtein", "vegan"],
-    "element": "elementWood"
-  }
+  { "id": "日式牛肉丼飯", "element": "elementMetal", "tags": ["beef", "hot"] },
+  { "id": "日式豚肉丼飯", "element": "elementMetal", "tags": ["pork", "hot"] },
+  { "id": "日式雞肉親子丼", "element": "elementEarth", "tags": ["hot"] },
+  { "id": "日式勝丼(炸豬排丼)", "element": "elementMetal", "tags": ["pork", "hot"] },
+  { "id": "日式天婦羅炸蝦丼", "element": "elementMetal", "tags": ["shrimp", "hot"] },
+  { "id": "日式蒲燒鰻魚飯", "element": "elementWater", "tags": ["hot"] },
+  { "id": "日式照燒雞腿丼", "element": "elementEarth", "tags": ["hot"] },
+  { "id": "日式薑汁燒肉丼", "element": "elementFire", "tags": ["pork", "hot"] },
+  { "id": "日式和牛燒肉丼", "element": "elementFire", "tags": ["beef", "hot"] },
+  { "id": "日式骰子牛丼飯", "element": "elementFire", "tags": ["beef", "hot"] },
+  { "id": "生魚片鮭魚海鮮丼", "element": "elementWater", "tags": ["cold"] },
+  { "id": "鮭魚卵鮪魚雙拼丼", "element": "elementWater", "tags": ["cold"] },
+  { "id": "炙燒干貝鮭魚丼", "element": "elementWater", "tags": ["cold"] },
+  { "id": "天使紅蝦海鮮丼", "element": "elementWater", "tags": ["shrimp", "cold"] },
+  { "id": "松葉蟹肉海膽丼", "element": "elementWater", "tags": ["crab", "cold"] },
+  { "id": "蔥花鮪魚泥丼", "element": "elementWood", "tags": ["cold"] },
+  { "id": "日式鮭魚茶泡飯", "element": "elementWater", "tags": ["snack", "hot"] },
+  { "id": "日式梅子海苔茶泡飯", "element": "elementWood", "tags": ["snack", "hot"] },
+  { "id": "台式古早味滷肉飯", "element": "elementWater", "tags": ["pork", "hot"] },
+  { "id": "台式爌肉飯(肉燥+爌肉)", "element": "elementWater", "tags": ["pork", "hot"] },
+  { "id": "台式雞肉飯", "element": "elementWood", "tags": ["hot"] },
+  { "id": "火雞肉飯", "element": "elementWood", "tags": ["hot"] },
+  { "id": "台式香酥炸排骨飯", "element": "elementMetal", "tags": ["pork", "hot"] },
+  { "id": "台式滷排骨飯", "element": "elementWater", "tags": ["pork", "hot"] },
+  { "id": "台式香酥炸雞腿飯", "element": "elementMetal", "tags": ["hot"] },
+  { "id": "台式滷雞腿飯", "element": "elementWater", "tags": ["hot"] },
+  { "id": "台式紅燒牛肉燴飯", "element": "elementFire", "tags": ["beef", "hot"] },
+  { "id": "台式沙茶牛肉燴飯", "element": "elementFire", "tags": ["beef", "hot"] },
+  { "id": "台式沙茶羊肉燴飯", "element": "elementFire", "tags": ["mutton", "hot"] },
+  { "id": "台式滑蛋蝦仁燴飯", "element": "elementEarth", "tags": ["shrimp", "hot"] },
+  { "id": "台式三杯雞燴飯", "element": "elementFire", "tags": ["hot"] },
+  { "id": "台式宮保雞丁飯", "element": "elementFire", "tags": ["hot"] },
+  { "id": "台式黑胡椒豬柳飯", "element": "elementMetal", "tags": ["pork", "hot"] },
+  { "id": "台式黑胡椒牛柳飯", "element": "elementMetal", "tags": ["beef", "hot"] },
+  { "id": "台式麻婆豆腐飯", "element": "elementFire", "tags": ["pork", "hot"] },
+  { "id": "台式高麗菜鹹飯", "element": "elementWood", "tags": ["pork", "hot"] },
+  { "id": "台式古早味芋頭鹹飯", "element": "elementEarth", "tags": ["pork", "hot"] },
+  { "id": "櫻花蝦香菇油飯", "element": "elementEarth", "tags": ["pork", "shrimp", "hot"] },
+  { "id": "台式筒仔米糕", "element": "elementWater", "tags": ["pork", "snack", "hot"] },
+  { "id": "台式肉粽", "element": "elementEarth", "tags": ["pork", "snack", "hot"] },
+  { "id": "港式蜜汁叉燒飯", "element": "elementFire", "tags": ["pork", "hot"] },
+  { "id": "港式脆皮燒肉飯", "element": "elementMetal", "tags": ["pork", "hot"] },
+  { "id": "港式明爐燒鴨飯", "element": "elementFire", "tags": ["hot"] },
+  { "id": "港式玫瑰油雞飯", "element": "elementWood", "tags": ["hot"] },
+  { "id": "港式燒臘三寶飯", "element": "elementFire", "tags": ["pork", "hot"] },
+  { "id": "港式窩蛋牛肉煲仔飯", "element": "elementFire", "tags": ["beef", "hot"] },
+  { "id": "港式臘味煲仔飯", "element": "elementFire", "tags": ["pork", "hot"] },
+  { "id": "港式鹹魚雞粒炒飯", "element": "elementMetal", "tags": ["hot"] },
+  { "id": "港式廣州炒飯", "element": "elementFire", "tags": ["pork", "shrimp", "hot"] },
+  { "id": "港式福建炒飯", "element": "elementWater", "tags": ["pork", "shrimp", "hot"] },
+  { "id": "海南雞飯", "element": "elementWood", "tags": ["hot"] },
+  { "id": "泰式打拋豬肉飯", "element": "elementFire", "tags": ["pork", "hot"] },
+  { "id": "泰式打拋牛肉飯", "element": "elementFire", "tags": ["beef", "hot"] },
+  { "id": "泰式椒麻雞飯", "element": "elementFire", "tags": ["hot"] },
+  { "id": "泰式綠咖哩雞肉飯", "element": "elementWood", "tags": ["hot"] },
+  { "id": "泰式紅咖哩牛肉飯", "element": "elementFire", "tags": ["beef", "hot"] },
+  { "id": "泰式黃咖哩海鮮燴飯", "element": "elementEarth", "tags": ["shrimp", "hot"] },
+  { "id": "泰式鳳梨蝦仁炒飯", "element": "elementWood", "tags": ["shrimp", "hot"] },
+  { "id": "韓式石鍋拌飯", "element": "elementFire", "tags": ["beef", "hot"] },
+  { "id": "韓式泡菜豬肉蓋飯", "element": "elementFire", "tags": ["pork", "hot"] },
+  { "id": "韓式燒肉辣炒年糕飯", "element": "elementFire", "tags": ["pork", "hot"] },
+  { "id": "韓式春川辣炒雞燴飯", "element": "elementFire", "tags": ["hot"] },
+  { "id": "韓式安東燉雞燴飯", "element": "elementWater", "tags": ["hot"] },
+  { "id": "韓式紫菜包飯(飯捲)", "element": "elementWood", "tags": ["snack", "cold"] },
+  { "id": "日式甘口咖哩牛肉飯", "element": "elementEarth", "tags": ["beef", "hot"] },
+  { "id": "日式辛口咖哩豬肉飯", "element": "elementFire", "tags": ["pork", "hot"] },
+  { "id": "日式炸豬排咖哩飯", "element": "elementFire", "tags": ["pork", "hot"] },
+  { "id": "日式炸雞塊(唐揚雞)咖哩飯", "element": "elementFire", "tags": ["hot"] },
+  { "id": "日式漢堡排咖哩飯", "element": "elementFire", "tags": ["beef", "pork", "hot"] },
+  { "id": "日式蔬食蘑菇咖哩飯", "element": "elementEarth", "tags": ["hot"] },
+  { "id": "印度黃咖哩羊肉飯", "element": "elementFire", "tags": ["mutton", "hot"] },
+  { "id": "印度奶油香料雞肉咖哩飯", "element": "elementEarth", "tags": ["hot"] },
+  { "id": "印度香料烤雞飯(Biryani)", "element": "elementFire", "tags": ["hot"] },
+  { "id": "印度香料羊肉飯(Biryani)", "element": "elementFire", "tags": ["mutton", "hot"] },
+  { "id": "經典醬油蛋炒飯", "element": "elementEarth", "tags": ["hot"] },
+  { "id": "黃金蝦仁蛋炒飯", "element": "elementMetal", "tags": ["shrimp", "hot"] },
+  { "id": "肉絲蛋炒飯", "element": "elementEarth", "tags": ["pork", "hot"] },
+  { "id": "牛肉蛋炒飯", "element": "elementMetal", "tags": ["beef", "hot"] },
+  { "id": "羊肉肉絲炒飯", "element": "elementFire", "tags": ["mutton", "hot"] },
+  { "id": "鹹豬肉炒飯", "element": "elementMetal", "tags": ["pork", "hot"] },
+  { "id": "培根蛋炒飯", "element": "elementMetal", "tags": ["pork", "hot"] },
+  { "id": "香腸蛋炒飯", "element": "elementFire", "tags": ["pork", "hot"] },
+  { "id": "什錦海鮮炒飯", "element": "elementWater", "tags": ["shrimp", "hot"] },
+  { "id": "蟹肉蛋白炒飯", "element": "elementWater", "tags": ["crab", "hot"] },
+  { "id": "鮭魚炒飯", "element": "elementWater", "tags": ["hot"] },
+  { "id": "松露野菇炒飯", "element": "elementEarth", "tags": ["hot"] },
+  { "id": "夏威夷鳳梨炒飯", "element": "elementWood", "tags": ["pork", "hot"] },
+  { "id": "韓式泡菜炒飯", "element": "elementFire", "tags": ["pork", "hot"] },
+  { "id": "西班牙海鮮燉飯(Paella)", "element": "elementFire", "tags": ["shrimp", "hot"] },
+  { "id": "義式奶油松露野菇燉飯", "element": "elementEarth", "tags": ["hot"] },
+  { "id": "義式羅勒青醬雞肉燉飯", "element": "elementWood", "tags": ["hot"] },
+  { "id": "義式粉紅醬嫩雞燉飯", "element": "elementFire", "tags": ["hot"] },
+  { "id": "義式墨魚汁海鮮燉飯", "element": "elementWater", "tags": ["shrimp", "hot"] },
+  { "id": "義式番茄紅醬海鮮燉飯", "element": "elementFire", "tags": ["shrimp", "crab", "hot"] },
+  { "id": "義式焗烤牛肉千層飯", "element": "elementEarth", "tags": ["beef", "hot"] },
+  { "id": "紅酒燉牛肉燴飯", "element": "elementFire", "tags": ["beef", "hot"] },
+  { "id": "美式路易斯安那紐奧良雞肉燉飯", "element": "elementFire", "tags": ["hot"] },
+  { "id": "美式手抓海鮮拌飯", "element": "elementFire", "tags": ["shrimp", "crab", "hot"] },
+  { "id": "御飯糰(肉鬆)", "element": "elementEarth", "tags": ["pork", "snack", "cold"] },
+  { "id": "御飯糰(鮪魚姿造)", "element": "elementWater", "tags": ["snack", "cold"] }
 ]
