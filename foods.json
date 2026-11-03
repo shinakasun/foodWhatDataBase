@@ -508,6 +508,5 @@
   { "id": "白菜豬肉水餃", "element": "elementWater", "tags": ["pork", "hot"] },
   { "id": "灌湯包", "element": "elementWater", "tags": ["hot"] },
   { "id": "小籠湯包", "element": "elementWater", "tags": ["hot"] },
-  { "id": "雙 胞 胎", "element": "elementFire", "tags": ["snack", "hot"] },
-
+  { "id": "雙 胞 胎", "element": "elementFire", "tags": ["snack", "hot"] }
 ]
