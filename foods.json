@@ -484,7 +484,7 @@
   { "id": "起司蛋餅", "element": "elementEarth", "tags": ["hot", "snack"] },
   { "id": "鮪魚蛋餅", "element": "elementWater", "tags": ["hot", "snack"] },
   { "id": "火腿蛋餅", "element": "elementEarth", "tags": ["pork", "hot", "snack"] },
-  { "id": "玉米蛋饼", "element": "elementEarth", "tags": ["hot", "snack"] },
+  { "id": "玉米蛋餅", "element": "elementEarth", "tags": ["hot", "snack"] },
   { "id": "薯餅蛋餅", "element": "elementEarth", "tags": ["hot", "snack"] },
   { "id": "豬排蛋餅", "element": "elementMetal", "tags": ["pork", "hot", "snack"] },
   { "id": "抓餅加蛋", "element": "elementWood", "tags": ["hot", "snack"] },
@@ -509,7 +509,5 @@
   { "id": "灌湯包", "element": "elementWater", "tags": ["hot"] },
   { "id": "小籠湯包", "element": "elementWater", "tags": ["hot"] },
   { "id": "雙 胞 胎", "element": "elementFire", "tags": ["snack", "hot"] },
-
-  
 
 ]
