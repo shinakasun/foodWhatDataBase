@@ -175,7 +175,6 @@
   { "id": "生滾豬肝粥", "element": "elementFire", "tags": ["pork", "hot"] },
   { "id": "綠豆薏仁粥", "element": "elementWood", "tags": ["snack", "cold"] },
   { "id": "小米粥", "element": "elementEarth", "tags": ["snack", "hot"] },
-  { "id": "紫米紅豆粥", "element": "elementFire", "tags": ["snack", "hot"] }
 
   { "id": "芋頭蘿蔔糕", "element": "elementEarth", "tags": ["pork", "snack", "hot"] },
   { "id": "芋頭糕", "element": "elementEarth", "tags": ["pork", "snack", "hot"] },
@@ -498,7 +497,6 @@
   { "id": "芋頭酥", "element": "elementEarth", "tags": ["snack", "cold"] },
   { "id": "牛舌餅", "element": "elementEarth", "tags": ["snack", "cold"] },
 
-  { "id": "清蒸肉圓", "element": "elementWater", "tags": ["pork", "hot", "snack"] },
   { "id": "傳統肉圓", "element": "elementEarth", "tags": ["pork", "hot", "snack"] },
   { "id": "一口肉圓", "element": "elementFire", "tags": ["pork", "hot", "snack"] },
   { "id": "蛋黃肉包", "element": "elementEarth", "tags": ["pork", "hot", "snack"] },
