@@ -145,7 +145,7 @@
 
   { "id": "鵝肉飯", "element": "elementMetal", "tags": ["hot"] },
   { "id": "燻鵝肉飯", "element": "elementFire", "tags": ["hot"] },
-  { "id": "鵝油飯", "element": "elementGold", "tags": ["hot", "snack"] },
+  { "id": "鵝油飯", "element": "elementMetal", "tags": ["hot", "snack"] },
   { "id": "鵝肉便當", "element": "elementMetal", "tags": ["hot"] },
   { "id": "鵝肉湯飯", "element": "elementWater", "tags": ["hot"] },
   { "id": "燒鵝腿飯", "element": "elementFire", "tags": ["hot"] },
