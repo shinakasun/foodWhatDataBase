@@ -474,7 +474,7 @@
   { "id": "港式叉燒腸粉", "element": "elementWater", "tags": ["pork", "hot", "snack"] },
   { "id": "鮮蝦腸粉", "element": "elementWater", "tags": ["shrimp", "hot", "snack"] },
   { "id": "牛肉腸粉", "element": "elementMetal", "tags": ["beef", "hot", "snack"] },
-  { "id": "炸兩腸粉", "element": "elementMetal", "tags": ["hot", "snack"] },
+  { "id": "炸腸粉", "element": "elementMetal", "tags": ["hot", "snack"] },
   { "id": "豉汁蒸鳳爪", "element": "elementFire", "tags": ["hot", "snack"] },
   { "id": "腐皮海鮮卷", "element": "elementFire", "tags": ["shrimp", "hot", "snack"] },
   { "id": "炸春捲", "element": "elementFire", "tags": ["pork", "hot", "snack"] },
