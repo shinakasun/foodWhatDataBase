@@ -1,8 +1,3 @@
-已根據您提供的清單，將所有屬於油炸類的食物項目（包含含有「炸」、「唐揚」、「天婦羅」、「排骨酥」、「土魠魚羹」、「肉圓」（清蒸除外）、「雙胞胎」、「銀絲卷」、「春捲」、「腸粉」及「腐皮卷」等油炸製程的品項）在 `tags` 陣列中新增了 `"fried"` 標籤。
-
-以下為更新後的完整食物資料庫清單：
-
-```json
 [
   { "id": "牛丼", "element": "elementMetal", "tags": ["beef", "hot"] },
   { "id": "豚丼", "element": "elementMetal", "tags": ["pork", "hot"] },
@@ -515,5 +510,3 @@
   { "id": "小籠湯包", "element": "elementWater", "tags": ["hot"] },
   { "id": "雙 胞 胎", "element": "elementFire", "tags": ["snack", "hot", "fried"] }
 ]
-
-```
